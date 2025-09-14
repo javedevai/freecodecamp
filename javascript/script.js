@@ -1,0 +1,2 @@
+const answer = window.prompt("What's your favorite animal?"); // This will change depending on what the user answers
+console.log(`Your favorite animal is: ${answer}`); // This will log the user's answer to the console
