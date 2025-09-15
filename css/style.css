@@ -1,0 +1,5 @@
+.container div:only-child {
+  border: 2px solid crimson;
+  padding: 10px;
+  background-color: lightblue;
+}
